@@ -1,9 +1,18 @@
+# 屏蔽所有LaTeX源码、编译临时文件
 *.tex
 *.cls
 *.sty
 *.bib
+*.bst
 *.aux
 *.log
 *.out
+*.toc
 *.synctex.gz
+src-latex/
+.vscode/
+
+# 放行文件（必须写在所有忽略规则下方）
 !*.pdf
+!README.md
+!.gitignore
