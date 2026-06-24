@@ -1,18 +1,12 @@
-# 屏蔽所有LaTeX源码、编译临时文件
+# LaTeX 源文件（核心屏蔽项）
 *.tex
-*.cls
-*.sty
-*.bib
-*.bst
-*.aux
-*.log
-*.out
-*.toc
-*.synctex.gz
-src-latex/
-.vscode/
-
-# 放行文件（必须写在所有忽略规则下方）
-!*.pdf
-!README.md
-!.gitignore
+*.tex.bak
+*.tex.sync-conflict-*
+*.drawio
+*.drawio.bkp
+# LaTeX 编译临时文件
+*.aux *.log *.out *.toc *.bbl *.blg *.synctex.gz
+# 系统/同步工具垃圾文件
+.DS_Store
+.textpadtmp
+.syncthing.*
