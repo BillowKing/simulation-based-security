@@ -1,0 +1,70 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bellare and Rogaway(1993)]{Bellare1993}
+Mihir Bellare and Phillip Rogaway.
+\newblock Random oracles are practical: A paradigm for designing efficient
+  protocols.
+\newblock In \emph{Proceedings of the 1st ACM Conference on Computer and
+  Communications Security}, CCS '93, pages 62--73. ACM, 1993.
+
+\bibitem[Canetti(2001)]{Canetti2001}
+Ran Canetti.
+\newblock Universally composable security: A new paradigm for cryptographic
+  protocols.
+\newblock In \emph{Proceedings of the 42nd IEEE Symposium on Foundations of
+  Computer Science}, FOCS '01, pages 136--145. IEEE Computer Society, 2001.
+
+\bibitem[Canetti and Krawczyk(2001)]{Canetti2001a}
+Ran Canetti and Hugo Krawczyk.
+\newblock Analysis of key-exchange protocols and their use for building secure
+  channels.
+\newblock In \emph{Proceedings of the 20th Annual International Conference on
+  the Theory and Applications of Cryptographic Techniques}, EUROCRYPT '01,
+  pages 453--474. Springer-Verlag, 2001.
+
+\bibitem[ElGamal(1985)]{ElGamal1985}
+Taher ElGamal.
+\newblock A public key cryptosystem and a signature scheme based on discrete
+  logarithms.
+\newblock \emph{IEEE Transactions on Information Theory}, 31\penalty0
+  (4):\penalty0 469--472, 1985.
+
+\bibitem[Goldreich(2001)]{Goldreich2001}
+Oded Goldreich.
+\newblock \emph{Foundations of Cryptography: Volume 1, Basic Tools}.
+\newblock Cambridge University Press, Cambridge, UK, 2001.
+
+\bibitem[Goldreich(2004)]{Goldreich2004}
+Oded Goldreich.
+\newblock \emph{Foundations of Cryptography: Volume 2, Basic Applications}.
+\newblock Cambridge University Press, Cambridge, UK, 2004.
+
+\bibitem[Goldwasser and Micali(1982)]{Goldwasser1982}
+Shafi Goldwasser and Silvio Micali.
+\newblock Probabilistic encryption \& how to play mental poker keeping secret
+  all partial information.
+\newblock In \emph{Proceedings of the Fourteenth Annual ACM Symposium on Theory
+  of Computing}, STOC '82, pages 365--377, New York, NY, USA, 1982. ACM.
+\newblock \doi{10.1145/800070.802212}.
+\newblock URL \url{http://doi.acm.org/10.1145/800070.802212}.
+
+\bibitem[Goldwasser et~al.(1989)Goldwasser, Micali, and
+  Rackoff]{Goldwasser1989}
+Shafi Goldwasser, Silvio Micali, and Charles Rackoff.
+\newblock The knowledge complexity of interactive proof systems.
+\newblock \emph{SIAM Journal on Computing}, 18\penalty0 (1):\penalty0 186--208,
+  1989.
+
+\bibitem[Pedersen(1991)]{Pedersen1991}
+Torben~P. Pedersen.
+\newblock Non-interactive and information-theoretic secure verifiable secret
+  sharing.
+\newblock In \emph{Proceedings of the 11th Annual International Cryptology
+  Conference}, CRYPTO '91, pages 129--140. Springer-Verlag, 1991.
+
+\end{thebibliography}
